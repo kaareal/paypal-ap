@@ -1,0 +1,25 @@
+{
+  "name": "paypal-ap",
+  "version": "v0.0.1",
+  "description": "payments adaptive a node.js.",
+  "keywords": [],
+  "homepage": "http://github.com/kaareal/paypal-ap",
+  "author": "kaareal",
+  "licenses": [
+  {
+    "type": "MIT",
+    "url": "http://github.com/kaareal/paypal/raw/master/LICENSE"
+  }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kaareal/paypal-ap.git"
+  },
+  "dependencies": {
+    "request": "*"
+  },
+  "engines": [
+    "node >=0.4.0"
+  ],
+  "main": "./lib/paypal.js"
+}
