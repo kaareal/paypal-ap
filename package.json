@@ -1,6 +1,6 @@
 {
   "name": "paypal-ap",
-  "version": "v0.10",
+  "version": "v0.11",
   "description": "payments adaptive a node.js.",
   "keywords": [],
   "homepage": "http://github.com/kaareal/paypal-ap",
